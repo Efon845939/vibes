@@ -357,4 +357,18 @@ footer {
   .ruzgar {
     display: none;
   }
+
+  .Duyuru {
+    background: var(--koyu);
+    color: greenyellow;
+    text-align: center;
+    padding: 8px;
+    font-size: 10px;
+  }
+
+  .başa-dön {
+    color: var(--mavi);
+    text-decoration: underline;
+    font-weight: bold;
+  }
 }
